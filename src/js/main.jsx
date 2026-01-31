@@ -96,7 +96,7 @@ const renderApp = () => {
           {/* crono bomba */}
           {isBoom && (
             <div className="boom-overlay">
-              <p className="boom-text">💥 ¡BOOM! 💥</p>
+              <p className="boom-text">💥¡BOOM!💥</p>
             </div>
           )}
           <div className="col-md-5 d-flex justify-content-center">
